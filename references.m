@@ -5,7 +5,7 @@
 % and Design of Plate Heat Exchanger, Chapter 7, 165-200, intechopen, 
 % DOI: 10.5772/60885.%
 %
-% [3] Muhammad Imran, Nugroho Agung Pambudib, Muhammad Farooqd, Thermal 
+% [3] Muhammad Imran, Nugroho Agung Pambudib, Muhammad Farooq, Thermal 
 % and hydraulic optimization of plate heat exchanger using multi objective
 % genetic algorithm, Case Studies in Thermal Engineering, 10, (2017)
 % 570-578 http://dx.doi.org/10.1016/j.csite.2017.10.003
